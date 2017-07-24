@@ -1,2 +1,2 @@
 # CNJS
-Node JS
+Curs Node JS
