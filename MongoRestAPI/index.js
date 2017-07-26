@@ -4,8 +4,8 @@ var express = require("express");
 var mongo = require("mongodb");
 var uuid = require("uuid/v4");
 
-var products = require("/modules/products.js");
-var orders = require("/modules/orders.js");
+var products = require("./modules/products.js");
+var orders = require("./modules/orders.js");
 
 var app = express();
 
