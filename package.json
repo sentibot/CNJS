@@ -1,0 +1,25 @@
+{
+  "name": "cnjs",
+  "version": "1.0.0",
+  "description": "Curs Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentibot/CNJS.git"
+  },
+  "author": "CS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sentibot/CNJS/issues"
+  },
+  "homepage": "https://github.com/sentibot/CNJS#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "uuid": "^3.1.0"
+  }
+}
